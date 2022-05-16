@@ -1,5 +1,19 @@
 # Green stock-analysis
+Background:<br/>
 
+Steve wants to analyze a group of 12 green stocks to support his parents' investment decisions. We can analyze the annual stock volume and return on investment (ROI).
+
+We are able to analyze each share with charts, and check information accurately, and now we can expand our research from 12 green shares. 
+Purpose:</br>
+Steve wants to look at more stocks so he can get more accurate information. He also knows that he must try to update his information and be able to avoid damage by careful analysis and make a good offer. He also can not spend much time on this and must use vbs to get information quickly and accurately. He knows that charts can help him better understand and process faster.</br>
+
+Results</br>
+ 
+ We will created 3 new arrays: -tickerVolumes(12) to hold volume -tickerStartingPrices(12) to hold starting price -tickerEndingPrices(12) to hold ending price this information help us to check better our information 
+
+Matching the 3 performance arrays with the ticker array is done by using a variable called the tickerIndex.
+
+Now that I have created these arrays, I can use Nested For Loops and variables to loop through the data and complete the analysis.
 Sub AllStocksAnalysisRefactored()
 
     Dim startTime As Single
@@ -129,4 +143,10 @@ Sub ClearWorksheet()
 
 End Sub
 
+2017 vs 2018 Stock Performance:</br>
 
+Steve should look at the chart and see if the industry works before advising his parents on his investment decision. According to the chart and information, we see that many stocks have decreased in volume, so it is not a good choice for his parents in investing. And invest in other stocks. In the performance of green stocks in 2017 compared to 2018, we are witnessing a large decrease in volume, so it is better for them to invest more carefully.</br>
+
+
+Execution time:</br>
+Execution time improved from 0.9433594 seconds to 0.1708984 seconds for 2017, and, 1.066406 to 0.1894531 for 2018. That’s an improvement  82% for each year.</br>
