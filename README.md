@@ -148,10 +148,10 @@ End Sub
 
 2017 vs 2018 Stock Performance:</br>
 
-![image_name](path/to/Untitled.png)g)<br/> <br/>
+![photo01.png](/resources/photo01.png)<br/> <br/>
 
 
-![outcomes_vs_picture.png](/resources/outcomes_vs_picture.png)<br/>
+![photo02.png](/resources/photo02.png)<br/>
  </br>
 Steve should look at the chart and see if the industry works before advising his parents on his investment decision. According to the chart and information, we see that many stocks have decreased in volume, so it is not a good choice for his parents in investing. And invest in other stocks. In the performance of green stocks in 2017 compared to 2018, we are witnessing a large decrease in volume, so it is better for them to invest more carefully.</br>
 
