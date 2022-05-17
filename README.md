@@ -148,7 +148,7 @@ End Sub
 
 2017 vs 2018 Stock Performance:</br>
 
-![outcomes_vs_launch.png](/resources/photo_2022-05-15_22-30-10 (7).jpg)<br/> <br/>
+![image_name](path/to/Untitled.png)g)<br/> <br/>
 
 
 ![outcomes_vs_launch.png](/resources/photo_2022-05-15_22-30-10 (8).jpg)<br/>
