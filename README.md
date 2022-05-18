@@ -158,6 +158,7 @@ Steve should look at the chart and see if the industry works before advising his
 
 Execution time:</br>
 Execution time improved from 0.9433594 seconds to 0.1708984 seconds for 2017, and, 1.066406 to 0.1894531 for 2018. That’s an improvement  82% for each year.</br>
+![photo03.png](/resources/photo03.png)<br/>
 ![photo04.png](/resources/photo04.png)<br/>
 ![photo07.png](/resources/photo07.png)<br/>
 
