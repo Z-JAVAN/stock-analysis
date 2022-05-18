@@ -157,8 +157,13 @@ Steve should look at the chart and see if the industry works before advising his
 
 
 Execution time:</br>
-Execution time improved from 0.9433594 seconds to 0.1708984 seconds for 2017, and, 1.066406 to 0.1894531 for 2018. That’s an improvement  82% for each year.</br>
+Execution time cord run in 0.109375secends for the year 2017 to  0.1054688 secends for the year 2018 so we can see that increase  .</br>
 ![photo03.png](/resources/photo03.png)<br/>
 ![photo04.png](/resources/photo04.png)<br/>
 ![photo07.png](/resources/photo07.png)<br/>
+Summary
 
+The advantage of Refactoring code is that if the program is executed correctly and given complete information, it helps a lot in making decisions and can be acted with more confidence.
+
+Disadvantages of refactoring code
+The big danger with refactoring is that your errors may cause data loss despite the amount of data and errors we make during the program. We must always enable the automatic save option and always save our files correctly.
